@@ -182,7 +182,7 @@ public class Main {
 
         //  Zadatak 7.
 
-         /*    int[] firstArray = {1,3,5,6};
+             int[] firstArray = {1,3,5,6};
 
             int[] secondArray = {1,1,1,1,1,1,1};
 
@@ -213,13 +213,10 @@ public class Main {
             for (int i = 0; i <= resultArray.length - 1; i++)
             {
             System.out.println(resultArray[i]);
-            }       */
+            }
         //Zadatak 8
 
-
-
-
-
+        
 
         //Zadatak 9
 
