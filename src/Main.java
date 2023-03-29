@@ -130,9 +130,6 @@ public class Main {
             int higherNumberInRange = reader.nextInt();
 
 
-
-
-
             if (lowerNumberInRange<=higherNumberInRange)
             {
                 System.out.println("Even numbers for range " + lowerNumberInRange + " to " + higherNumberInRange + " are: ");
